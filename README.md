@@ -27,9 +27,11 @@ npm install sharp glob
 
 ## Screenshot
 Initial weight
+
 <img width="812" height="309" alt="peso_immagini_non_convertite" src="https://github.com/user-attachments/assets/888b8386-3426-4111-94fd-4c13344207e3" />
 
 final weight
+
 <img width="707" height="333" alt="peso_immagini_convertite" src="https://github.com/user-attachments/assets/e44893bd-e2ed-4c64-9c48-f0f44ed902fd" />
 
 ## Contact
